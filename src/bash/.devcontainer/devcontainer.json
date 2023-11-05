@@ -23,7 +23,8 @@
 				"lizebang.bash-extension-pack"
 			]
 		}
-	}
+	},
+	"remoteUser": "bash"
 }
 
 

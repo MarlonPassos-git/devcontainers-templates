@@ -1,0 +1,16 @@
+{
+    "id": "vtex-io",
+    "version": "1.0.0",
+    "name": "VTEX IO",
+    "description": "VTEX IO development container by Marlon Passos",
+    "documentationURL": "https://github.com/MarlonPassos-git/devcontainers-templates/blob/main/src/vtex-io",
+    "licenseURL": "https://github.com/MarlonPassos-git/devcontainers-templates/blob/main/LICENSE",
+    "options": {},
+    "platforms": [
+        "javascript",
+        "typescript",
+        "node",
+        "vtex",
+        "vtex-io"
+    ]
+}
