@@ -1,0 +1,12 @@
+{
+    "id": "bash",
+    "version": "1.0.0",
+    "name": "bash",
+    "description": "Bash development container by Marlon Passos",
+    "documentationURL": "https://github.com/MarlonPassos-git/devcontainers-templates/blob/main/src/bash",
+    "licenseURL": "https://github.com/MarlonPassos-git/devcontainers-templates/blob/main/LICENSE",
+    "options": {},
+    "platforms": [
+        "bash"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+	"name": "bash",
+	"image": "mcr.microsoft.com/devcontainers/base:jammy",
+	"features": {
+    "ghcr.io/devcontainers-contrib/features/zsh-plugins": {
+      "plugins": [
+        "zsh-autosuggestions",
+        "zsh-syntax-highlighting"
+      ]
+    },
+    "ghcr.io/stuartleeks/dev-container-features/shell-history": {},
+    "ghcr.io/devcontainers/features/common-utils": {
+      "installZsh": true
+    }
+  },
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"mads-hartmann.bash-ide-vscode",
+				"remisa.shellman",
+				"rpinski.shebang-snippets",
+				"rogalmic.bash-debug",
+				"lizebang.bash-extension-pack"
+			]
+		}
+	}
+}
+
+
