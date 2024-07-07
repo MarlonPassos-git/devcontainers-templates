@@ -1,7 +1,7 @@
 
 # bash (bash)
 
-Bash development container by Marlon Passos
+Bash development container by Marlon Passos 2
 
 ## Options
 
