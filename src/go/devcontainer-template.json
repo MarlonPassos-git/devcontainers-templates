@@ -1,0 +1,12 @@
+{
+    "id": "go",
+    "version": "1.0.0",
+    "name": "Go",
+    "description": "GO development container by Marlon Passos",
+    "documentationURL": "https://github.com/MarlonPassos-git/devcontainers-templates/blob/main/src/go",
+    "licenseURL": "https://github.com/MarlonPassos-git/devcontainers-templates/blob/main/LICENSE",
+    "options": {},
+    "platforms": [
+        "go"
+    ]
+}
